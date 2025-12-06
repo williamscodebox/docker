@@ -1,0 +1,8 @@
+run this to create an image
+
+docker build -t hello-docker .
+
+
+then to run it 
+
+docker run hello-docker
